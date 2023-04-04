@@ -16,8 +16,7 @@ I'm Marta, a career-changer full stack Software Engineer
 **email** | marta.bianchini24@gmail.com    
 **LinkedIn** | [marta-bianchini](https://www.linkedin.com/in/marta-bianchini/)
 
-## 💻 Tech Stack
-
+## 🤖 Tech Stack
 
 <p align="center">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -40,14 +39,14 @@ I'm Marta, a career-changer full stack Software Engineer
 <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"><p>
 
-## Projects 💻
+## 💻 Projects
+A list of some of my past projects
 
 | Name                         | Description       | Technologies        |
 | ---------------------------- | ----------------- | --------------------|
 | [**Solved**](https://github.com/MartaBia/solved-app-final-project) | Live-action treasure hunt mobile app of London landmarks | Developed with MERN stack using React Native. Tested with Jest. Built with Expo|
 | [**Bank Tech Test**](https://github.com/MartaBia/bank-tech-test) | A simple bank program that allows the users to do deposits, withdrawals, and see their account statements | Developed with Ruby, tested with RSpec. |
 | [**Acebook**](https://github.com/MartaBia/acebook-team-water) | Facebook clone | Developed with MERN stack. Tested with Jest and Cypress. |
-|[**News Challenge**](https://github.com/MartaBia/news-summary-challenge)| A web app that shows the latest news using the Guardian API | Developed with JavaScript, tested with Jest |
 |[**CloudBnB**](https://github.com/MartaBia/cloudbnb)| AirBnB clone | Developed with Ruby. Tested with RSpec |
 |[**Shop Manager Challenge**](https://github.com/MartaBia/shop-manager-challenge)| A terminal program that allows the user to manage a shop database containing some items and orders | Developed with Ruby. Tested with RSpec |
 
