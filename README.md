@@ -8,7 +8,7 @@ I'm Marta, a career-changer full stack Software Engineer
 - 😄 Pronouns: She/Her
 
 <p align="center">
-  <img src="4.png" height="100"/>
+  <a href="https://github.com/MartaBia/CV"><img src="4.png" height="100"/></a>
 </p>
 
 ## Contact me 📫
