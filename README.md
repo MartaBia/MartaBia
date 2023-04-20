@@ -3,8 +3,8 @@
 I'm Marta, a career-changer full stack Software Engineer 
 
 - 💻 [Makers Acadamy](https://makers.tech/software-developer-career/?utm_source=google&utm_medium=cpc&utm_campaign=RK-Brand-Search&utm_term=makers&utm_campaign=RK_Brand_Search_B2C&utm_source=adwords&utm_medium=ppc&hsa_acc=7172166340&hsa_cam=18923739809&hsa_grp=146296844529&hsa_ad=634895450071&hsa_src=g&hsa_tgt=kwd-10078111&hsa_kw=makers&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjw8qmhBhClARIsANAtbodKwHwcUvcq1x8MtIX563KIKjWGwvVtfimfB3VbyvAqbvKSGttCHkYaAlxdEALw_wcB) graduate - March 2023
-- 🔭 I’m currently working on [pdf-reader](https://github.com/MartaBia/pdf-reader)
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on [HTMA-report-generator](https://github.com/Pensano-dev/HTMA-report-generator/tree/jest-setup)
+- 🌱 I'm currently learning Python
 - 😄 Pronouns: She/Her
 
 <p align="center">
