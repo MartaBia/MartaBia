@@ -44,6 +44,7 @@ A list of some of my past projects
 
 | Name                         | Description       | Technologies        |
 | ---------------------------- | ----------------- | --------------------|
+| [**PDF Reader**](https://github.com/MartaBia/pdf-reader) | A program that takes a pdf file that is passed from the user through command line and reads it outloud. | Developed with Python|
 | [**Solved**](https://github.com/MartaBia/solved-app-final-project) | Live-action treasure hunt mobile app of London landmarks | Developed with MERN stack using React Native. Tested with Jest. Built with Expo|
 | [**Bank Tech Test**](https://github.com/MartaBia/bank-tech-test) | A simple bank program that allows the users to do deposits, withdrawals, and see their account statements | Developed with Ruby, tested with RSpec. |
 | [**Acebook**](https://github.com/MartaBia/acebook-team-water) | Facebook clone | Developed with MERN stack. Tested with Jest and Cypress. |
