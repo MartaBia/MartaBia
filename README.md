@@ -3,7 +3,7 @@
 I'm Marta, a career-changer full stack Software Engineer 
 
 - 💻 [Makers Acadamy](https://makers.tech/software-developer-career/?utm_source=google&utm_medium=cpc&utm_campaign=RK-Brand-Search&utm_term=makers&utm_campaign=RK_Brand_Search_B2C&utm_source=adwords&utm_medium=ppc&hsa_acc=7172166340&hsa_cam=18923739809&hsa_grp=146296844529&hsa_ad=634895450071&hsa_src=g&hsa_tgt=kwd-10078111&hsa_kw=makers&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjw8qmhBhClARIsANAtbodKwHwcUvcq1x8MtIX563KIKjWGwvVtfimfB3VbyvAqbvKSGttCHkYaAlxdEALw_wcB) graduate - March 2023
-- 🔭 I’m currently working on [HTMA-report-generator](https://github.com/Pensano-dev/HTMA-report-generator/tree/jest-setup)
+- 🔭 I’m currently working on [Virtual Exhibition](https://github.com/MartaBia/virtual-exhibition)
 - 🌱 I'm currently learning Python
 - 😄 Pronouns: She/Her
 
@@ -44,6 +44,7 @@ A list of some of my past projects
 
 | Name                         | Description       | Technologies        |
 | ---------------------------- | ----------------- | --------------------|
+| [**Virtual Exhibition**](https://github.com/MartaBia/virtual-exhibition) | A toy exhibition website powered by the V&A API. | Developed with Ruby on Rails|
 | [**PDF Reader**](https://github.com/MartaBia/pdf-reader) | A program that takes a pdf file that is passed from the user through command line and reads it outloud. | Developed with Python|
 | [**Solved**](https://github.com/MartaBia/solved-app-final-project) | Live-action treasure hunt mobile app of London landmarks | Developed with MERN stack using React Native. Tested with Jest. Built with Expo|
 | [**Bank Tech Test**](https://github.com/MartaBia/bank-tech-test) | A simple bank program that allows the users to do deposits, withdrawals, and see their account statements | Developed with Ruby, tested with RSpec. |
